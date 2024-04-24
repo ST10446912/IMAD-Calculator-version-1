@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMAD Calculator</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUBTRACT</string>
+    <string name="mul">MULTIPLY</string>
+    <string name="div">DIVIDE</string>
+    <string name="sqr">SQUARE ROOT</string>
+    <string name="pow">POWER OF</string>
+    <string name="addList">ADD TO LIST</string>
+    <string name="total">TOTAL</string>
+    <string name="high">HIGH</string>
+    <string name="low">LOW</string>
+    <string name="average">AVERAGE</string>
+    <string name="clear">CLEAR</string>
+</resources>
